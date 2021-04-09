@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "This is aa Good Stream",
+      "id": 1
+    },
+    {
+      "title": "New Steream",
+      "description": "This is a New Stream",
+      "id": 2
+    },
+    {
+      "title": "welcome",
+      "description": "welcome to my Stream",
+      "userId": "110460491975499036398",
+      "id": 3
+    },
+    {
+      "title": "new Stream",
+      "description": "Newest Stream",
+      "userId": "110460491975499036398",
+      "id": 4
+    }
+  ]
+}
